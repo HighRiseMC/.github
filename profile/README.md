@@ -1,7 +1,5 @@
-![Project Banner](https://i.imgur.com/pNXvpii.jpeg)
+![Project Banner]([https://i.imgur.com/pNXvpii.jpeg](https://i.imgur.com/eluUykN.png))
 
-# How2Roleplay Plugin
+# HighRiseMC
 
-## Overview
-
-How2Roleplay yeah
+HighRiseMC yeah
